@@ -13,4 +13,4 @@ if using terminal (Windows)
     a. AI vs AI: AI will play as player 1 and player 2, it will try beat its counter part.
     b. AI vs Player: You will play against the AI.
     c. Player vs Player: You can play with another user, or yourself (no ones judging :P)
-   4.Select New game to start 
+  4.Select New game to start 
